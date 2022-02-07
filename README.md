@@ -7,8 +7,9 @@ Improvements coming soon:
 - In the official Wordle game, if a guess has 2 duplicate letters and the answer only has one, the first in the guess will be green/yellow depending on the placement, while the second was grey.
 - In my version, the second will be yellow, even if there is just one of the letters. So in official wordle: 
 
-Answer: smart\n
-Guess:  treat\n
+Answer: smart
+
+Guess:  treat
 
 The first t will be grey and final t will be green.
 
